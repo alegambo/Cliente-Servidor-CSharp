@@ -1,0 +1,20 @@
+C:\Users\Anayansi\Downloads\joda\NetworkingSamples-master\MultiClient\bin\Debug\Multi Client.exe.config
+C:\Users\Anayansi\Downloads\joda\NetworkingSamples-master\MultiClient\bin\Debug\Multi Client.exe
+C:\Users\Anayansi\Downloads\joda\NetworkingSamples-master\MultiClient\bin\Debug\Multi Client.pdb
+C:\Users\Anayansi\Downloads\joda\NetworkingSamples-master\MultiClient\obj\Debug\Clientes.csproj.CoreCompileInputs.cache
+C:\Users\Anayansi\Downloads\joda\NetworkingSamples-master\MultiClient\obj\Debug\Multi Client.exe
+C:\Users\Anayansi\Downloads\joda\NetworkingSamples-master\MultiClient\obj\Debug\Multi Client.pdb
+C:\Users\Anayansi\Downloads\joda\Cliente-Servidor\Cliente\bin\Debug\Multi Client.exe.config
+C:\Users\Anayansi\Downloads\joda\Cliente-Servidor\Cliente\bin\Debug\Multi Client.exe
+C:\Users\Anayansi\Downloads\joda\Cliente-Servidor\Cliente\bin\Debug\Multi Client.pdb
+C:\Users\Anayansi\Downloads\joda\Cliente-Servidor\Cliente\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+C:\Users\Anayansi\Downloads\joda\Cliente-Servidor\Cliente\obj\Debug\Clientes.csproj.CoreCompileInputs.cache
+C:\Users\Anayansi\Downloads\joda\Cliente-Servidor\Cliente\obj\Debug\Multi Client.exe
+C:\Users\Anayansi\Downloads\joda\Cliente-Servidor\Cliente\obj\Debug\Multi Client.pdb
+C:\Users\elmer\OneDrive\Escritorio\Segundo Proyecto Final\Cliente-Servidor\Cliente\bin\Debug\Multi Client.exe.config
+C:\Users\elmer\OneDrive\Escritorio\Segundo Proyecto Final\Cliente-Servidor\Cliente\bin\Debug\Multi Client.exe
+C:\Users\elmer\OneDrive\Escritorio\Segundo Proyecto Final\Cliente-Servidor\Cliente\bin\Debug\Multi Client.pdb
+C:\Users\elmer\OneDrive\Escritorio\Segundo Proyecto Final\Cliente-Servidor\Cliente\obj\Debug\Clientes.csprojAssemblyReference.cache
+C:\Users\elmer\OneDrive\Escritorio\Segundo Proyecto Final\Cliente-Servidor\Cliente\obj\Debug\Clientes.csproj.CoreCompileInputs.cache
+C:\Users\elmer\OneDrive\Escritorio\Segundo Proyecto Final\Cliente-Servidor\Cliente\obj\Debug\Multi Client.exe
+C:\Users\elmer\OneDrive\Escritorio\Segundo Proyecto Final\Cliente-Servidor\Cliente\obj\Debug\Multi Client.pdb

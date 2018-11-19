@@ -1,0 +1,21 @@
+C:\Users\Anayansi\Downloads\joda\NetworkingSamples-master\MultiServer\bin\Debug\Multi Server.exe.config
+C:\Users\Anayansi\Downloads\joda\NetworkingSamples-master\MultiServer\bin\Debug\Multi Server.exe
+C:\Users\Anayansi\Downloads\joda\NetworkingSamples-master\MultiServer\bin\Debug\Multi Server.pdb
+C:\Users\Anayansi\Downloads\joda\NetworkingSamples-master\MultiServer\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+C:\Users\Anayansi\Downloads\joda\NetworkingSamples-master\MultiServer\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Anayansi\Downloads\joda\NetworkingSamples-master\MultiServer\obj\Debug\Multi Server.exe
+C:\Users\Anayansi\Downloads\joda\NetworkingSamples-master\MultiServer\obj\Debug\Multi Server.pdb
+C:\Users\Anayansi\Downloads\joda\Cliente-Servidor\Servidor\bin\Debug\Multi Server.exe.config
+C:\Users\Anayansi\Downloads\joda\Cliente-Servidor\Servidor\bin\Debug\Multi Server.exe
+C:\Users\Anayansi\Downloads\joda\Cliente-Servidor\Servidor\bin\Debug\Multi Server.pdb
+C:\Users\Anayansi\Downloads\joda\Cliente-Servidor\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+C:\Users\Anayansi\Downloads\joda\Cliente-Servidor\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Anayansi\Downloads\joda\Cliente-Servidor\Servidor\obj\Debug\Multi Server.exe
+C:\Users\Anayansi\Downloads\joda\Cliente-Servidor\Servidor\obj\Debug\Multi Server.pdb
+C:\Users\elmer\OneDrive\Escritorio\Segundo Proyecto Final\Cliente-Servidor\Servidor\bin\Debug\Multi Server.exe.config
+C:\Users\elmer\OneDrive\Escritorio\Segundo Proyecto Final\Cliente-Servidor\Servidor\bin\Debug\Multi Server.exe
+C:\Users\elmer\OneDrive\Escritorio\Segundo Proyecto Final\Cliente-Servidor\Servidor\bin\Debug\Multi Server.pdb
+C:\Users\elmer\OneDrive\Escritorio\Segundo Proyecto Final\Cliente-Servidor\Servidor\obj\Debug\Servidor.csprojAssemblyReference.cache
+C:\Users\elmer\OneDrive\Escritorio\Segundo Proyecto Final\Cliente-Servidor\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\elmer\OneDrive\Escritorio\Segundo Proyecto Final\Cliente-Servidor\Servidor\obj\Debug\Multi Server.exe
+C:\Users\elmer\OneDrive\Escritorio\Segundo Proyecto Final\Cliente-Servidor\Servidor\obj\Debug\Multi Server.pdb
